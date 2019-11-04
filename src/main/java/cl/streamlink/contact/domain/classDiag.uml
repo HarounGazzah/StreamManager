@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="222.0" y="1116.0">cl.streamlink.contact.domain.User</node>
+    <node x="1275.0" y="1116.0">cl.streamlink.contact.domain.Language</node>
+    <node x="773.0" y="0.0">cl.streamlink.contact.domain.Bill</node>
+    <node x="895.0" y="1116.0">cl.streamlink.contact.domain.CurriculumVitae</node>
+    <node x="282.0" y="265.0">cl.streamlink.contact.domain.Society</node>
+    <node x="0.0" y="647.0">cl.streamlink.contact.domain.Contract</node>
+    <node x="1104.0" y="1116.0">cl.streamlink.contact.domain.Photo</node>
+    <node x="842.0" y="647.0">cl.streamlink.contact.domain.Contact</node>
+    <node x="395.0" y="1116.0">cl.streamlink.contact.domain.SocietyLegalInformation</node>
+    <node x="315.0" y="0.0">cl.streamlink.contact.domain.AbstractProfile</node>
+    <node x="32.5" y="508.0">cl.streamlink.contact.domain.Resource</node>
+    <node x="1005.0" y="647.0">cl.streamlink.contact.domain.Evaluation</node>
+    <node x="0.0" y="1116.0">cl.streamlink.contact.domain.NeedInformation</node>
+    <node x="0.0" y="254.0">cl.streamlink.contact.domain.Developer</node>
+    <node x="1247.0" y="647.0">cl.streamlink.contact.domain.PersonalInformation</node>
+    <node x="668.0" y="1116.0">cl.streamlink.contact.domain.SkillsInformation</node>
+    <node x="592.0" y="647.0">cl.streamlink.contact.domain.Action</node>
+    <node x="565.0" y="254.0">cl.streamlink.contact.domain.SocietyContact</node>
+    <node x="1027.5" y="408.0">cl.streamlink.contact.domain.ProjectPos</node>
+    <node x="321.0" y="647.0">cl.streamlink.contact.domain.Need</node>
+    <node x="1023.0" y="0.0">cl.streamlink.contact.domain.Positioning</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cl.streamlink.contact.domain.Developer" target="cl.streamlink.contact.domain.AbstractProfile">
+      <point x="0.0" y="-102.0" />
+      <point x="131.0" y="229.0" />
+      <point x="347.8333333333333" y="229.0" />
+      <point x="-65.66666666666669" y="102.0" />
+    </edge>
+    <edge source="cl.streamlink.contact.domain.Society" target="cl.streamlink.contact.domain.AbstractProfile">
+      <point x="0.0" y="-91.0" />
+      <point x="0.0" y="102.0" />
+    </edge>
+    <edge source="cl.streamlink.contact.domain.SocietyContact" target="cl.streamlink.contact.domain.AbstractProfile">
+      <point x="0.0" y="-102.0" />
+      <point x="646.5" y="229.0" />
+      <point x="479.1666666666667" y="229.0" />
+      <point x="65.66666666666669" y="102.0" />
+    </edge>
+    <edge source="cl.streamlink.contact.domain.ProjectPos" target="cl.streamlink.contact.domain.Positioning">
+      <point x="0.0" y="-58.0" />
+      <point x="0.0" y="179.0" />
+    </edge>
+    <edge source="cl.streamlink.contact.domain.Resource" target="cl.streamlink.contact.domain.Developer">
+      <point x="0.0" y="-47.0" />
+      <point x="0.0" y="102.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="764.0" y="402.0" />
+  <SelectedNodes>
+    <node>cl.streamlink.contact.domain.Developer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

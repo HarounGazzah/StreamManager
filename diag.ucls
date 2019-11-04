@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="cl.streamlink.contact.domain.Positioning" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Positioning.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="281" width="195" x="399" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="cl.streamlink.contact.domain.SocietyContact" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/SocietyContact.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="746" y="1031"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="cl.streamlink.contact.domain.User" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/User.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1233" y="893"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="cl.streamlink.contact.domain.SocietyLegalInformation" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/SocietyLegalInformation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="195" x="1802" y="1294"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="cl.streamlink.contact.domain.Society" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Society.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1857" y="1172"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="cl.streamlink.contact.domain.ProjectInformation" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/ProjectInformation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="172" x="422" y="832"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="cl.streamlink.contact.domain.Language" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Language.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="167" x="192" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="cl.streamlink.contact.domain.Project" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Project.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="806" y="615"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="cl.streamlink.contact.domain.Contract" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Contract.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1468" y="305"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="cl.streamlink.contact.domain.SkillsInformation" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/SkillsInformation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1411" y="997"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="cl.streamlink.contact.domain.PersonalInformation" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/PersonalInformation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1673" y="978"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="cl.streamlink.contact.domain.CurriculumVitae" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/CurriculumVitae.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="167" x="1635" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="cl.streamlink.contact.domain.Action" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Action.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="191" width="195" x="634" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="cl.streamlink.contact.domain.Developer" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Developer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1514" y="679"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="cl.streamlink.contact.domain.Evaluation" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Evaluation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="191" width="195" x="869" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="cl.streamlink.contact.domain.Contact" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Contact.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="281" width="167" x="1842" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="cl.streamlink.contact.domain.AbstractProfile" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/AbstractProfile.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="173" width="195" x="1842" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="cl.streamlink.contact.domain.WishedContract" 
+    project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/WishedContract.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="191" width="202" x="1104" y="190"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="cl.streamlink.contact.domain.Resource" project="streamlink_condidats_manager" 
+    file="/streamlink_condidats_manager/src/main/java/cl/streamlink/contact/domain/Resource.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="996" y="1226"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <association id="20">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="21" name="personalInformation"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="24">    
+    <bendpoint x="987" y="511"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="25" name="responsible"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="28" name="skillsInformation"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="643" y="511"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="31" name="societyContact"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="920" y="511"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="34" name="responsible"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="37" name="legalInformation"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="40" name="manager"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="1474" y="511"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="43" name="manager"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="46" name="developer"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="49" name="developer"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="52" name="contact"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="55" name="developer"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="58" name="developer"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="899" y="511"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="61" name="responsible"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="64" name="developer"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <bendpoint x="622" y="511"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="67" name="resource"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <bendpoint x="1214" y="511"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="70" name="responsible"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="73" name="projectInformation"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="75">    
+    <bendpoint x="1811" y="832"/>    
+    <bendpoint x="1811" y="511"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="76">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="77" name="societyContact"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="79">    
+    <bendpoint x="1105" y="511"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="80" name="responsible"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="82">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="83" name="rh"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="85">    
+    <bendpoint x="1193" y="511"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="86">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="87" name="rh"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="89">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="90">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="91" name="project"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="94" name="project"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="97" name="society"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

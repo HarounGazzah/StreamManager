@@ -1,0 +1,26 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: streamlink
+  cloud:
+    config:
+#      uri: http://configmanagerserver.northeurope.azurecontainer.io:1212
+      uri: http://localhost:1212
+
+  mail:
+    username: haroun.gazzah@gmail.com
+    password: 99979089@@99979089
+    host: smtp.gmail.com
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+eureka:
+  client:
+    serviceUrl:
+#      defaultZone: http://eurekaregistry.northeurope.azurecontainer.io:8761/eureka/
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
